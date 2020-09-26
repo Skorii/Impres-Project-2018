@@ -1,2 +1,2 @@
 # Impres-Project-2018
-Articles stock management for end of first programmation year
+Articles stock management project for end of first programmation year
